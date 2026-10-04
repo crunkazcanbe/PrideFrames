@@ -1,0 +1,8 @@
+[{
+  "modid": "prideframes",
+  "name": "Pride Frames",
+  "description": "True frame generation for Minecraft: a presenter thread re-projects the last frame to your current camera for 2x-4x smooth frames, plus a Pride Graphics menu. Free and open source.",
+  "version": "0.1.0",
+  "mcversion": "1.12.2",
+  "authorList": ["crunkazcanbe"]
+}]
